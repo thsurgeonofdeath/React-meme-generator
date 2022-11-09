@@ -57,3 +57,14 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.meme--image {
+  max-width: 100%;
+  min-height: 100px;
+  max-height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+    /* width: 50%; */
+}
